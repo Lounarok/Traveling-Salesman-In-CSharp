@@ -1,8 +1,9 @@
 # TravelingSalesmanInCSharp
 Using Nearest Neighbor and Two-optimization.<br />
-Solution is modifies from https://github.com/GuyHarwood/TravellingSalesman/tree/master/TravellingSalesman .<br />
+Solution is modified from https://github.com/GuyHarwood/TravellingSalesman/tree/master/TravellingSalesman .<br />
 (Tested in vs2008)<br />
-Algorithm is modifies from https://github.com/samlbest/traveling-salesman .<br />
+
+Algorithm is modified from https://github.com/samlbest/traveling-salesman .<br />
 
 Distance is calculated in double not integer.<br />
 
